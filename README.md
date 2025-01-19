@@ -11,7 +11,8 @@
 
 
 
-
+## Install it with PWA on Browser
+[https://landing.cryptix-network.org/](https://landing.cryptix-network.org/)
 
 
 * Unfortunately, we currently do not offer support for macOS/iOS, as Apple only allows software creation on Mac devices. Such a restriction should not be supported. We recommend switching to more open manufacturers or alternatively installing the wallet and other modules via the browser's PWA functionality. All Cryptix-Network websites can be installed as apps through the browser. However, even in 2025, Apple's limitations still restrict many functions in this regard. On the other hand, all common versions of Android, Windows / Windows Server and Linux / Debian are fully supported. We may support iOS/macOS in the future, but this is not confirmed at the moment.
